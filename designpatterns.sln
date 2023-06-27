@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "behavioral\Visit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "behavioral\Interpreter\Interpreter.csproj", "{7FEF248F-AE00-4E42-BBE2-61D1B78B3C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine", "RulesEngine\RulesEngine.csproj", "{1EF30C9B-FB50-41C2-9EE9-06A85D64B398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,6 +158,10 @@ Global
 		{7FEF248F-AE00-4E42-BBE2-61D1B78B3C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FEF248F-AE00-4E42-BBE2-61D1B78B3C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FEF248F-AE00-4E42-BBE2-61D1B78B3C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF30C9B-FB50-41C2-9EE9-06A85D64B398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF30C9B-FB50-41C2-9EE9-06A85D64B398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF30C9B-FB50-41C2-9EE9-06A85D64B398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF30C9B-FB50-41C2-9EE9-06A85D64B398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F68C7CFE-0267-465B-941F-8253A5507DBC} = {C9F97749-196A-4771-B46F-77EF1B5DFC52}
